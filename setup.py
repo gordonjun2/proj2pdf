@@ -13,12 +13,11 @@ setup(
     name="project2pdf",
     version="0.1.0",
     author="Gordon Oh",
-    author_email="your.email@example.com",  # Replace with your email
+    author_email="gordonoh@yahoo.com.sg",
     description="A CLI tool to convert project files to PDF",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url=
-    "https://github.com/yourusername/project2pdf",  # Replace with your repository URL
+    url="https://github.com/gordonjun2/project2pdf",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
