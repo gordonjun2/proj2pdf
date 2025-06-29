@@ -1,4 +1,4 @@
-# project2pdf
+# proj2pdf
 
 A command-line tool to convert your project files into a single PDF document. It supports various file types including:
 
@@ -10,28 +10,28 @@ A command-line tool to convert your project files into a single PDF document. It
 
 ## Installation
 
-You can install project2pdf using pip:
+You can install proj2pdf using pip:
 
 ```bash
-pip install project2pdf
+pip install proj2pdf
 ```
 
 ## Usage
 
-After installation, you can use the `project2pdf` command from anywhere in your terminal:
+After installation, you can use the `proj2pdf` command from anywhere in your terminal:
 
 ```bash
 # Convert files in current directory
-project2pdf
+proj2pdf
 
 # Specify a different directory
-project2pdf -d /path/to/your/project
+proj2pdf -d /path/to/your/project
 
 # Specify output file name
-project2pdf -o output.pdf
+proj2pdf -o output.pdf
 
 # Get help
-project2pdf --help
+proj2pdf --help
 ```
 
 ## Features

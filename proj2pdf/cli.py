@@ -1,4 +1,4 @@
-"""Command line interface for project2pdf."""
+"""Command line interface for proj2pdf."""
 
 import os
 import glob

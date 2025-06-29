@@ -1,5 +1,5 @@
 """
-project2pdf - Convert project files to PDF
+proj2pdf - Convert project files to PDF
 """
 
 __version__ = "0.1.0"

@@ -1,4 +1,4 @@
-"""File conversion utilities for project2pdf."""
+"""File conversion utilities for proj2pdf."""
 
 import os
 import nbformat
